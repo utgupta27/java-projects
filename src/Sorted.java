@@ -53,5 +53,6 @@ public class Sorted {
         for (int i = 0; i < size; i++) {
             System.out.print(sortedArray[i] + " ");
         }
+        input.close();
     }
 }
