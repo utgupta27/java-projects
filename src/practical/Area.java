@@ -1,3 +1,5 @@
+package practical;
+
 import java.lang.Math;
 public class Area {
     private static void calcArea(int side){
