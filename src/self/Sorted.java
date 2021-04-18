@@ -1,3 +1,5 @@
+package self;
+
 import java.util.Scanner;
 
 public class Sorted {
@@ -48,7 +50,7 @@ public class Sorted {
             System.out.print(array[i] + " ");
         }
         System.out.println();
-        System.out.println("The Sorted array is : ");
+        System.out.println("The self.Sorted array is : ");
         int[] sortedArray = reverseInsertionSort(array);
         for (int i = 0; i < size; i++) {
             System.out.print(sortedArray[i] + " ");

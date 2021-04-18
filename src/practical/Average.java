@@ -1,3 +1,5 @@
+package practical;
+
 public class Average {
     private int[] arr;
     Average(){

@@ -1,4 +1,6 @@
-abstract class AbstractClass {    
+package practical;
+
+abstract class AbstractClass {
     abstract int noOfSides();
     abstract double area();
 }

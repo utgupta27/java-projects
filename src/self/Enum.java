@@ -1,3 +1,5 @@
+package self;
+
 class EnumData{
     enum Days{
         MONDAY("Okay"),TUESDAY("Good"),WEDNESDAY("Very Good"),THURASDAY("Awesome"),FRIDAY("Amazing"),SATURDAY("Wonderfull"),SUNDAY("Excellent");

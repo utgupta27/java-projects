@@ -1,3 +1,4 @@
+package self;
 
 class Bitwsienot{
 	public static void main(String[] args){
