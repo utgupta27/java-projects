@@ -1,3 +1,5 @@
+package practical;
+
 class Circle {
     int radius;
     int[] centre;

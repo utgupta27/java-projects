@@ -1,3 +1,5 @@
+package practical;
+
 class Constuctor {
 
     Constuctor(){

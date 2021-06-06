@@ -1,3 +1,5 @@
+package practical;
+
 public class Distance {
     public static void main(String[] args) {
         int distance = 3000, speed = 75;

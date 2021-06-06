@@ -1,3 +1,5 @@
+package practical;
+
 class ParentClass {
     public void getvalue(){
         System.out.println("parent");

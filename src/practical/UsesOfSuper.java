@@ -1,3 +1,5 @@
+package practical;
+
 class Vehicle { 
     int maxSpeed; String name;
     Vehicle() {

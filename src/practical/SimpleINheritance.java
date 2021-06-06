@@ -1,3 +1,5 @@
+package practical;
+
 class Vehicles {
     int numberOfWheels; 
     String engineType;

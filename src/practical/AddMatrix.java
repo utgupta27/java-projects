@@ -1,3 +1,5 @@
+package practical;
+
 import java.util.Scanner;
 
 public class AddMatrix {
